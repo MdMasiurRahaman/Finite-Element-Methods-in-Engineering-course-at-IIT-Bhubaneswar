@@ -213,3 +213,17 @@ Avoiding common FEM mistakes
 6. Nonlinear deformation of rubber-like materials
 
 Students need submit a final project report including modeling assumptions, FEM implementation, simulation results, and interpretation.
+
+## Text books: 
+Here are some of the best textbooks on Finite Element Methods in Engineering:
+1. "An Introduction to the Finite Element Method" by J. N. Reddy.
+2. "The Finite Element Method in Engineering" by Singiresu S. Rao.
+3. "A First Course in the Finite Element Method" by Daryl L. Logan
+4. "Introduction to Finite Elements in Engineering" T. R. Chandrupatla & A. D. Belegundu
+
+## Reference books:
+This is a  restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally.
+1. "The Finite Element Method: Its Basis and Fundamentals" by O. C. Zienkiewicz, R. L. Taylor & J. Z. Zhu
+2. "Finite Element Procedures" by Klaus-Jürgen Bathe
+3. "Fundamentals of Finite Element Analysis" by David V. Hutton
+4. "Concepts and Applications of Finite Element Analysis" by R. D. Cook, D. S. Malkus, M. E. Plesha & R. J. Witt
