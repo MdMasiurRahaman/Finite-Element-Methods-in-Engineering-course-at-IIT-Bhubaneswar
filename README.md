@@ -180,9 +180,9 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 4. Contact, constraints, connectors, boundary conditions
 
-Static, modal, harmonic, and transient analyses
+5. Static, modal, harmonic, and transient analyses
 
-Interpreting stress plots, deformed shapes, and postprocessing
+6. Interpreting stress plots, deformed shapes, and postprocessing
 
 Avoiding common FEM mistakes
 
