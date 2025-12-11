@@ -61,7 +61,7 @@ After completing this course, students will be able to explain the fundamentals 
 
 Prepare clear engineering reports including problem formulation, model description, simulation setup, results, and conclusions.
 
-## Course details of solid mechanics on Finite Element Methods in Engineering
+## Course details of Finite Element Methods in Engineering
 
 ### Module 1: Introduction to Finite Element Method
 
