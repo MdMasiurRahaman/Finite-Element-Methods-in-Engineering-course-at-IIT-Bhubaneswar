@@ -3,67 +3,67 @@
 ## Learning outcomes:
 After completing this course, students will be able to explain the fundamentals of finite element method (FEM) and it's application in engineering. 
 
-### Fundamentals of FEM
+#### Fundamentals of FEM
 
 1. Explain the basic concepts of discretization, interpolation functions, degrees of freedom, and element formulation.
 
 2. Describe the advantages, limitations, and assumptions inherent in the finite element method.
 
-### Mathematical Formulation
+#### Mathematical Formulation
 
 1. Derive the weak (variational) form of 1D, 2D, and 3D boundary value problems.
 
 2. Construct finite element equations starting from governing differential equations using weighted-residual and energy methods.
 
-### Element Development
+#### Element Development
 
 1. Develop shape functions for common element types (bar, beam, truss, frame, plane stress/strain, axisymmetric, and solid elements).
 
 2. Assemble element matrices (stiffness, mass, load vectors) into a global system.
 
-### Solution of FE Systems
+#### Solution of FE Systems
 
 1. Apply appropriate numerical techniques to solve linear algebraic systems arising from FEM (direct and iterative methods).
 
 2. Implement boundary conditions and constraints correctly.
 
-### Structural and Mechanical Analysis
+#### Structural and Mechanical Analysis
 
 1. Apply FEM to analyze truss, beam, frame, and continuum structures under static loading.
 
 2. Compute stress, strain, displacement, and reaction forces for structural engineering applications.
 
-### Advanced Topics
+#### Advanced Topics
 
 1. Analyze dynamic problems using FE formulations for modal analysis, transient dynamics, and vibration response.
 
 2. Apply FEM to nonlinear problems involving material nonlinearity, geometric nonlinearity, and contact.
 
-### Computational Implementation
+#### Computational Implementation
 
 1. Develop simple FE codes using MATLAB/Julia/Python or similar computational tools.
 
 2. Validate numerical solutions by mesh refinement, error estimation, and comparison with analytical/benchmark solutions.
 
-### Use of Commercial FEM Software
+#### Use of Commercial FEM Software
 
 1. Perform engineering simulations using commercial packages (e.g., Abaqus, ANSYS, COMSOL).
 
 2. Interpret simulation outputs, select appropriate element types, and design effective meshing strategies.
 
-### Engineering Judgment and Interpretation
+#### Engineering Judgment and Interpretation
 
 1. Critically interpret FE results and assess the reliability of solutions.
 
 2. Identify modeling errors, numerical issues, and convergence problems.
 
-### Communication and Documentation
+#### Communication and Documentation
 
 Prepare clear engineering reports including problem formulation, model description, simulation setup, results, and conclusions.
 
 ## Course details of Finite Element Methods in Engineering
 
-### Module 1: Introduction to Finite Element Method
+#### Module 1: Introduction to Finite Element Method
 
 1. Historical development and motivation
 
@@ -73,7 +73,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 4. Review of linear algebra & PDEs relevant to FEM
 
-### Module 2: Mathematical Foundations
+#### Module 2: Mathematical Foundations
 
 1. Strong form, weak form, and variational formulation
 
@@ -83,7 +83,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 4. Functional minimization and Euler–Lagrange equations
 
-### Module 3: 1D Finite Elements
+#### Module 3: 1D Finite Elements
 
 1. Bar and truss elements (axial loading)
 
@@ -97,7 +97,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 6. Example problems and code implementation (MATLAB/Julia/Python)
 
-### Module 4: Two-Dimensional FEM
+#### Module 4: Two-Dimensional FEM
 
 1. Plane stress, plane strain, and axisymmetric formulations
 
@@ -111,7 +111,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 6. Mesh generation strategies & quality metrics
 
-### Module 5: Three-Dimensional FEM
+#### Module 5: Three-Dimensional FEM
 
 1. 3D solid elements: tetrahedral, hexahedral, and higher-order elements
 
@@ -121,7 +121,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 4. Practical issues with 3D meshing
 
-### Module 6: FEM in Linear Elasicity, Heat Transfer and Diffusion Problems
+#### Module 6: FEM in Linear Elasicity, Heat Transfer and Diffusion Problems
 
 1. Governing equations for linear elasicity, conduction, convection–diffusion
 
@@ -131,7 +131,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 4. Coupled thermomechanical problems (optional)
 
-### Module 7: Dynamic Analysis
+#### Module 7: Dynamic Analysis
 
 1. Derivation of mass matrix (consistent & lumped)
 
@@ -143,7 +143,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 5. Stability and convergence issues
 
-### Module 8: Nonlinear FEM
+#### Module 8: Nonlinear FEM
 
 1. Geometric nonlinearity: large deformation kinematics
 
@@ -155,7 +155,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 5. Convergence criteria and numerical stability
 
-### Module 9: Computational Implementation (Mini-FEM Code)
+#### Module 9: Computational Implementation (Mini-FEM Code)
 
 1. Data structures for FEM code
 
@@ -170,7 +170,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 6. Validation using benchmark problems
 (This can be done using MATLAB, Python, or Julia—based on the course.)
 
-### Module 10: Use of Commercial FEM Software
+#### Module 10: Use of Commercial FEM Software
 
 1. Modeling workflow in Abaqus/ANSYS/COMSOL
 
@@ -186,7 +186,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 Avoiding common FEM mistakes
 
-### Module 11: Verification & Validation
+#### Module 11: Verification & Validation
 
 1. Mesh convergence and error estimation
 
@@ -196,7 +196,7 @@ Avoiding common FEM mistakes
 
 4. Understanding numerical errors and model uncertainty
 
-### Module 12: Mini-Project / Case Studies
+#### Module 12: Mini-Project / Case Studies
 
 1. Examples:
 
