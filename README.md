@@ -183,7 +183,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 6. Interpreting stress plots, deformed shapes, and postprocessing
 
-Avoiding common FEM mistakes
+7. Avoiding common FEM mistakes
 
 #### Module 11: Verification & Validation
 
