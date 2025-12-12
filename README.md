@@ -167,8 +167,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 5. Visualization and postprocessing
 
-6. Validation using benchmark problems
-(This can be done using MATLAB, Python, or Julia—based on the course.)
+6. Validation using benchmark problems (MATLAB/Python/Julia)
 
 #### Module 10: Use of Commercial FEM Software
 
