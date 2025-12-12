@@ -211,7 +211,7 @@ Prepare clear engineering reports including problem formulation, model descripti
 
 6. Nonlinear deformation of rubber-like materials
 
-Students need submit a final project report including modeling assumptions, FEM implementation, simulation results, and interpretation.
+Students need to submit a final project report including modeling assumptions, FEM implementation, simulation results, and interpretation.
 
 ## Text books: 
 Here are some of the best textbooks on Finite Element Methods in Engineering:
